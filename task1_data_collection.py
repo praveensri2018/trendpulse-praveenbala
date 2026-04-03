@@ -73,7 +73,7 @@ def main():
             
             assigned_category = get_category(title)
 
-            if assigned_category == category or assigned_category is None:
+            if assigned_category == category:
                 
                 print(f"[{category}] {count+1} -> {title[:60]}")
 
