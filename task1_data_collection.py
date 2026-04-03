@@ -74,7 +74,13 @@ def main():
             assigned_category = get_category(title)
 
             if assigned_category == category:
-                
+                match = True
+            elif assigned_category is None and count < 25:
+                match = True
+            else:
+                match = False
+
+            if match:
                 print(f"[{category}] {count+1} -> {title[:60]}")
 
                 collected_stories.append({
@@ -88,8 +94,8 @@ def main():
                 })
 
                 count += 1
-
-            if i % 50 == 0:
+            
+            if i % 50 == 0 and i != 0:
                 
                 print(f"Checked {i} stories for {category}")
 
