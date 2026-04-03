@@ -1,408 +1,282 @@
 [
     {
-        "post_id": 47626462,
-        "title": "BigEndian Testing with QEMU",
+        "post_id": 47629433,
+        "title": "iNaturalist",
         "category": "technology",
-        "score": 55,
-        "num_comments": 37,
-        "author": "jandeboevrie",
-        "collected_at": "2026-04-03 22:53:55"
+        "score": 44,
+        "num_comments": 8,
+        "author": "bookofjoe",
+        "collected_at": "2026-04-03 23:34:42"
+    },
+    {
+        "post_id": 47629505,
+        "title": "Solana Drift Protocol drained of 285M via fake token and governance hijack",
+        "category": "technology",
+        "score": 14,
+        "num_comments": 0,
+        "author": "anonhaven",
+        "collected_at": "2026-04-03 23:34:43"
+    },
+    {
+        "post_id": 47562325,
+        "title": "Understanding young news audiences at a time of rapid change",
+        "category": "technology",
+        "score": 18,
+        "num_comments": 1,
+        "author": "giuliomagnifico",
+        "collected_at": "2026-04-03 23:34:44"
+    },
+    {
+        "post_id": 47618223,
+        "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+        "category": "technology",
+        "score": 19,
+        "num_comments": 9,
+        "author": "denssumesh",
+        "collected_at": "2026-04-03 23:34:45"
     },
     {
         "post_id": 47567222,
         "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
         "category": "technology",
-        "score": 211,
-        "num_comments": 119,
+        "score": 250,
+        "num_comments": 132,
         "author": "chalmovsky",
-        "collected_at": "2026-04-03 22:53:56"
+        "collected_at": "2026-04-03 23:35:46"
+    },
+    {
+        "post_id": 47626462,
+        "title": "BigEndian Testing with QEMU",
+        "category": "technology",
+        "score": 62,
+        "num_comments": 42,
+        "author": "jandeboevrie",
+        "collected_at": "2026-04-03 23:35:47"
     },
     {
         "post_id": 47624731,
         "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
         "category": "technology",
-        "score": 205,
-        "num_comments": 88,
+        "score": 226,
+        "num_comments": 91,
         "author": "greenstevester",
-        "collected_at": "2026-04-03 22:53:57"
+        "collected_at": "2026-04-03 23:35:48"
     },
     {
-        "post_id": 47627056,
-        "title": "Marc Andreessen is wrong about introspection",
+        "post_id": 47629116,
+        "title": "Go on Embedded Systems and WebAssembly",
         "category": "technology",
-        "score": 314,
-        "num_comments": 304,
-        "author": "surprisetalk",
-        "collected_at": "2026-04-03 22:53:57"
+        "score": 15,
+        "num_comments": 0,
+        "author": "uticus",
+        "collected_at": "2026-04-03 23:35:49"
     },
     {
         "post_id": 47560967,
         "title": "A Recipe for Steganogravy",
         "category": "technology",
-        "score": 86,
-        "num_comments": 16,
+        "score": 94,
+        "num_comments": 21,
         "author": "tbrockman",
-        "collected_at": "2026-04-03 22:53:59"
+        "collected_at": "2026-04-03 23:35:50"
+    },
+    {
+        "post_id": 47622616,
+        "title": "The Technocracy Movement of the 1930s",
+        "category": "technology",
+        "score": 18,
+        "num_comments": 4,
+        "author": "lazydogbrownfox",
+        "collected_at": "2026-04-03 23:35:52"
     },
     {
         "post_id": 47624811,
         "title": "SSH certificates the better SSH experience",
         "category": "technology",
-        "score": 117,
-        "num_comments": 43,
+        "score": 132,
+        "num_comments": 55,
         "author": "jandeboevrie",
-        "collected_at": "2026-04-03 22:54:00"
+        "collected_at": "2026-04-03 23:35:53"
     },
     {
-        "post_id": 47616242,
-        "title": "Decisions that eroded trust in Azure  by a former Azure Core engineer",
+        "post_id": 47627527,
+        "title": "Build your own Dialup ISP with a Raspberry Pi",
         "category": "technology",
-        "score": 1072,
-        "num_comments": 506,
-        "author": "axelriet",
-        "collected_at": "2026-04-03 22:54:01"
+        "score": 22,
+        "num_comments": 3,
+        "author": "arjunbajaj",
+        "collected_at": "2026-04-03 23:35:54"
     },
     {
         "post_id": 47624645,
         "title": "Show HN Apfel  The free AI already on your Mac",
         "category": "technology",
-        "score": 519,
-        "num_comments": 117,
+        "score": 544,
+        "num_comments": 122,
         "author": "franze",
-        "collected_at": "2026-04-03 22:54:02"
+        "collected_at": "2026-04-03 23:35:55"
     },
     {
         "post_id": 47561426,
         "title": "What Category Theory Teaches Us About DataFrames",
         "category": "technology",
-        "score": 133,
+        "score": 141,
         "num_comments": 42,
         "author": "mchav",
-        "collected_at": "2026-04-03 22:54:03"
-    },
-    {
-        "post_id": 47628608,
-        "title": "If youre running OpenClaw you probably got hacked in the last week",
-        "category": "technology",
-        "score": 60,
-        "num_comments": 19,
-        "author": "kykeonaut",
-        "collected_at": "2026-04-03 22:54:03"
+        "collected_at": "2026-04-03 23:35:55"
     },
     {
         "post_id": 47561678,
         "title": "ESP32S31 DualCore RISCV SoC with WiFi 6 Bluetooth 54 and Advanced HMI",
         "category": "technology",
-        "score": 155,
-        "num_comments": 82,
+        "score": 158,
+        "num_comments": 86,
         "author": "topspin",
-        "collected_at": "2026-04-03 22:54:04"
+        "collected_at": "2026-04-03 23:35:56"
     },
     {
         "post_id": 47625639,
         "title": "TDF ejects its core developers",
         "category": "technology",
-        "score": 107,
-        "num_comments": 77,
+        "score": 119,
+        "num_comments": 78,
         "author": "janvdberg",
-        "collected_at": "2026-04-03 22:54:05"
+        "collected_at": "2026-04-03 23:35:57"
+    },
+    {
+        "post_id": 47628608,
+        "title": "If youre running OpenClaw you probably got hacked in the last week",
+        "category": "technology",
+        "score": 112,
+        "num_comments": 53,
+        "author": "kykeonaut",
+        "collected_at": "2026-04-03 23:35:58"
+    },
+    {
+        "post_id": 47629013,
+        "title": "Mercurial Dyson  a plan for the disassembly of planet Mercury",
+        "category": "technology",
+        "score": 22,
+        "num_comments": 10,
+        "author": "indy",
+        "collected_at": "2026-04-03 23:35:59"
     },
     {
         "post_id": 47627061,
         "title": "Solar and batteries can power the world",
         "category": "technology",
-        "score": 187,
-        "num_comments": 270,
+        "score": 206,
+        "num_comments": 300,
         "author": "edent",
-        "collected_at": "2026-04-03 22:54:06"
+        "collected_at": "2026-04-03 23:36:00"
     },
     {
         "post_id": 47624736,
         "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
         "category": "technology",
-        "score": 240,
-        "num_comments": 92,
+        "score": 254,
+        "num_comments": 107,
         "author": "chrisjj",
-        "collected_at": "2026-04-03 22:54:07"
+        "collected_at": "2026-04-03 23:36:01"
     },
     {
         "post_id": 47579818,
         "title": "What we learned building 100 API integrations with OpenCode",
         "category": "technology",
-        "score": 62,
-        "num_comments": 13,
+        "score": 70,
+        "num_comments": 16,
         "author": "rguldener",
-        "collected_at": "2026-04-03 22:54:08"
+        "collected_at": "2026-04-03 23:36:01"
     },
     {
         "post_id": 47624804,
         "title": "Category Theory Illustrated  Types",
         "category": "technology",
-        "score": 42,
+        "score": 47,
         "num_comments": 1,
         "author": "boris_m",
-        "collected_at": "2026-04-03 22:54:09"
-    },
-    {
-        "post_id": 47629013,
-        "title": "Mercurial Dyson  a plan for the disassembly of planet Mercury",
-        "category": "technology",
-        "score": 12,
-        "num_comments": 4,
-        "author": "indy",
-        "collected_at": "2026-04-03 22:54:10"
+        "collected_at": "2026-04-03 23:36:02"
     },
     {
         "post_id": 47573728,
         "title": "Intel Assured Supply Chain Product Brief",
         "category": "technology",
-        "score": 40,
-        "num_comments": 8,
+        "score": 44,
+        "num_comments": 9,
         "author": "aw-engineer",
-        "collected_at": "2026-04-03 22:54:10"
-    },
-    {
-        "post_id": 47629306,
-        "title": "Pharmaceuticals face 100 tariffs in US  unless firms strike a deal",
-        "category": "technology",
-        "score": 8,
-        "num_comments": 1,
-        "author": "geox",
-        "collected_at": "2026-04-03 22:54:11"
-    },
-    {
-        "post_id": 47627527,
-        "title": "Build your own Dialup ISP with a Raspberry Pi",
-        "category": "technology",
-        "score": 7,
-        "num_comments": 1,
-        "author": "arjunbajaj",
-        "collected_at": "2026-04-03 22:54:12"
+        "collected_at": "2026-04-03 23:36:03"
     },
     {
         "post_id": 47618189,
         "title": "Tailscales new macOS home",
         "category": "technology",
-        "score": 529,
-        "num_comments": 276,
+        "score": 531,
+        "num_comments": 280,
         "author": "tosh",
-        "collected_at": "2026-04-03 22:54:13"
+        "collected_at": "2026-04-03 23:36:04"
     },
     {
         "post_id": 47616361,
         "title": "Google releases Gemma 4 open models",
         "category": "technology",
-        "score": 1677,
-        "num_comments": 445,
+        "score": 1684,
+        "num_comments": 446,
         "author": "jeffmcjunkin",
-        "collected_at": "2026-04-03 22:54:14"
+        "collected_at": "2026-04-03 23:36:05"
     },
     {
         "post_id": 47618084,
         "title": "Cursor 3",
-        "category": "technology",
-        "score": 509,
-        "num_comments": 372,
+        "category": "worldnews",
+        "score": 516,
+        "num_comments": 376,
         "author": "adamfeldman",
-        "collected_at": "2026-04-03 22:54:15"
-    },
-    {
-        "post_id": 47625244,
-        "title": "Critics say EU risks ceding control of its tech laws under US pressure",
-        "category": "technology",
-        "score": 171,
-        "num_comments": 103,
-        "author": "nickslaughter02",
-        "collected_at": "2026-04-03 22:54:15"
+        "collected_at": "2026-04-03 23:36:31"
     },
     {
         "post_id": 47609356,
         "title": "Artemis IIs toilet is a moon mission milestone",
-        "category": "technology",
-        "score": 312,
+        "category": "worldnews",
+        "score": 313,
         "num_comments": 149,
         "author": "1659447091",
-        "collected_at": "2026-04-03 22:54:17"
-    },
-    {
-        "post_id": 47626462,
-        "title": "BigEndian Testing with QEMU",
-        "category": "worldnews",
-        "score": 55,
-        "num_comments": 37,
-        "author": "jandeboevrie",
-        "collected_at": "2026-04-03 22:54:20"
-    },
-    {
-        "post_id": 47567222,
-        "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
-        "category": "worldnews",
-        "score": 211,
-        "num_comments": 119,
-        "author": "chalmovsky",
-        "collected_at": "2026-04-03 22:54:21"
-    },
-    {
-        "post_id": 47624731,
-        "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-        "category": "worldnews",
-        "score": 205,
-        "num_comments": 88,
-        "author": "greenstevester",
-        "collected_at": "2026-04-03 22:54:22"
-    },
-    {
-        "post_id": 47627056,
-        "title": "Marc Andreessen is wrong about introspection",
-        "category": "worldnews",
-        "score": 315,
-        "num_comments": 305,
-        "author": "surprisetalk",
-        "collected_at": "2026-04-03 22:54:23"
-    },
-    {
-        "post_id": 47560967,
-        "title": "A Recipe for Steganogravy",
-        "category": "worldnews",
-        "score": 86,
-        "num_comments": 16,
-        "author": "tbrockman",
-        "collected_at": "2026-04-03 22:54:25"
-    },
-    {
-        "post_id": 47624811,
-        "title": "SSH certificates the better SSH experience",
-        "category": "worldnews",
-        "score": 118,
-        "num_comments": 43,
-        "author": "jandeboevrie",
-        "collected_at": "2026-04-03 22:54:26"
+        "collected_at": "2026-04-03 23:36:33"
     },
     {
         "post_id": 47616242,
         "title": "Decisions that eroded trust in Azure  by a former Azure Core engineer",
         "category": "worldnews",
-        "score": 1072,
-        "num_comments": 506,
+        "score": 1099,
+        "num_comments": 522,
         "author": "axelriet",
-        "collected_at": "2026-04-03 22:54:26"
-    },
-    {
-        "post_id": 47628608,
-        "title": "If youre running OpenClaw you probably got hacked in the last week",
-        "category": "worldnews",
-        "score": 62,
-        "num_comments": 19,
-        "author": "kykeonaut",
-        "collected_at": "2026-04-03 22:54:29"
-    },
-    {
-        "post_id": 47561678,
-        "title": "ESP32S31 DualCore RISCV SoC with WiFi 6 Bluetooth 54 and Advanced HMI",
-        "category": "worldnews",
-        "score": 155,
-        "num_comments": 82,
-        "author": "topspin",
-        "collected_at": "2026-04-03 22:54:30"
-    },
-    {
-        "post_id": 47625639,
-        "title": "TDF ejects its core developers",
-        "category": "worldnews",
-        "score": 107,
-        "num_comments": 77,
-        "author": "janvdberg",
-        "collected_at": "2026-04-03 22:54:31"
-    },
-    {
-        "post_id": 47627061,
-        "title": "Solar and batteries can power the world",
-        "category": "worldnews",
-        "score": 187,
-        "num_comments": 271,
-        "author": "edent",
-        "collected_at": "2026-04-03 22:54:32"
-    },
-    {
-        "post_id": 47624736,
-        "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
-        "category": "worldnews",
-        "score": 240,
-        "num_comments": 92,
-        "author": "chrisjj",
-        "collected_at": "2026-04-03 22:54:33"
-    },
-    {
-        "post_id": 47624804,
-        "title": "Category Theory Illustrated  Types",
-        "category": "worldnews",
-        "score": 42,
-        "num_comments": 1,
-        "author": "boris_m",
-        "collected_at": "2026-04-03 22:54:34"
-    },
-    {
-        "post_id": 47629013,
-        "title": "Mercurial Dyson  a plan for the disassembly of planet Mercury",
-        "category": "worldnews",
-        "score": 13,
-        "num_comments": 4,
-        "author": "indy",
-        "collected_at": "2026-04-03 22:54:35"
-    },
-    {
-        "post_id": 47629306,
-        "title": "Pharmaceuticals face 100 tariffs in US  unless firms strike a deal",
-        "category": "worldnews",
-        "score": 8,
-        "num_comments": 1,
-        "author": "geox",
-        "collected_at": "2026-04-03 22:54:37"
-    },
-    {
-        "post_id": 47627527,
-        "title": "Build your own Dialup ISP with a Raspberry Pi",
-        "category": "worldnews",
-        "score": 7,
-        "num_comments": 1,
-        "author": "arjunbajaj",
-        "collected_at": "2026-04-03 22:54:38"
-    },
-    {
-        "post_id": 47616361,
-        "title": "Google releases Gemma 4 open models",
-        "category": "worldnews",
-        "score": 1677,
-        "num_comments": 445,
-        "author": "jeffmcjunkin",
-        "collected_at": "2026-04-03 22:54:40"
-    },
-    {
-        "post_id": 47618084,
-        "title": "Cursor 3",
-        "category": "worldnews",
-        "score": 509,
-        "num_comments": 372,
-        "author": "adamfeldman",
-        "collected_at": "2026-04-03 22:54:41"
-    },
-    {
-        "post_id": 47609356,
-        "title": "Artemis IIs toilet is a moon mission milestone",
-        "category": "worldnews",
-        "score": 312,
-        "num_comments": 149,
-        "author": "1659447091",
-        "collected_at": "2026-04-03 22:54:42"
+        "collected_at": "2026-04-03 23:36:37"
     },
     {
         "post_id": 47598413,
         "title": "C89ccsh  standalone C89ELF64 compiler in pure portable shell",
         "category": "worldnews",
-        "score": 178,
-        "num_comments": 56,
+        "score": 181,
+        "num_comments": 58,
         "author": "gaigalas",
-        "collected_at": "2026-04-03 22:54:46"
+        "collected_at": "2026-04-03 23:36:37"
+    },
+    {
+        "post_id": 47629272,
+        "title": "Artemis II astronaut I have two Microsoft Outlooks and neither are working",
+        "category": "worldnews",
+        "score": 7,
+        "num_comments": 1,
+        "author": "Bender",
+        "collected_at": "2026-04-03 23:37:40"
+    },
+    {
+        "post_id": 47629306,
+        "title": "Pharmaceuticals face 100 tariffs in US  unless firms strike a deal",
+        "category": "worldnews",
+        "score": 20,
+        "num_comments": 12,
+        "author": "geox",
+        "collected_at": "2026-04-03 23:37:41"
     },
     {
         "post_id": 47561913,
@@ -411,25 +285,25 @@
         "score": 51,
         "num_comments": 6,
         "author": "chmaynard",
-        "collected_at": "2026-04-03 22:54:47"
+        "collected_at": "2026-04-03 23:37:42"
     },
     {
         "post_id": 47593861,
         "title": "Maze Algorithms 1997",
         "category": "worldnews",
-        "score": 82,
-        "num_comments": 28,
+        "score": 83,
+        "num_comments": 31,
         "author": "marukodo",
-        "collected_at": "2026-04-03 22:54:48"
+        "collected_at": "2026-04-03 23:37:43"
     },
     {
         "post_id": 47562762,
         "title": "Significant progress made on Xbox 360 recompilation",
         "category": "worldnews",
-        "score": 145,
+        "score": 147,
         "num_comments": 30,
         "author": "tetrisgm",
-        "collected_at": "2026-04-03 22:54:49"
+        "collected_at": "2026-04-03 23:37:44"
     },
     {
         "post_id": 47618176,
@@ -438,690 +312,816 @@
         "score": 165,
         "num_comments": 38,
         "author": "finaard",
-        "collected_at": "2026-04-03 22:54:50"
+        "collected_at": "2026-04-03 23:37:45"
+    },
+    {
+        "post_id": 47621825,
+        "title": "I Built an SMS Gateway with a 20 Android Phone  Jonnonz",
+        "category": "worldnews",
+        "score": 73,
+        "num_comments": 30,
+        "author": "jonno-nz",
+        "collected_at": "2026-04-03 23:37:47"
+    },
+    {
+        "post_id": 47625629,
+        "title": "Squarified Treemap Algorithm",
+        "category": "worldnews",
+        "score": 10,
+        "num_comments": 2,
+        "author": "downboots",
+        "collected_at": "2026-04-03 23:37:48"
+    },
+    {
+        "post_id": 47572288,
+        "title": "JSON Canvas Spec 2024",
+        "category": "worldnews",
+        "score": 126,
+        "num_comments": 37,
+        "author": "tobr",
+        "collected_at": "2026-04-03 23:37:49"
     },
     {
         "post_id": 47624691,
         "title": "HarfBuzz Slug Support with WebGL",
         "category": "worldnews",
-        "score": 19,
-        "num_comments": 3,
-        "author": "mcraiha",
-        "collected_at": "2026-04-03 22:54:52"
-    },
-    {
-        "post_id": 47626462,
-        "title": "BigEndian Testing with QEMU",
-        "category": "sports",
-        "score": 55,
-        "num_comments": 37,
-        "author": "jandeboevrie",
-        "collected_at": "2026-04-03 22:54:56"
-    },
-    {
-        "post_id": 47567222,
-        "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
-        "category": "sports",
-        "score": 211,
-        "num_comments": 119,
-        "author": "chalmovsky",
-        "collected_at": "2026-04-03 22:54:56"
-    },
-    {
-        "post_id": 47624731,
-        "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-        "category": "sports",
-        "score": 205,
-        "num_comments": 88,
-        "author": "greenstevester",
-        "collected_at": "2026-04-03 22:54:57"
-    },
-    {
-        "post_id": 47627056,
-        "title": "Marc Andreessen is wrong about introspection",
-        "category": "sports",
-        "score": 315,
-        "num_comments": 305,
-        "author": "surprisetalk",
-        "collected_at": "2026-04-03 22:54:58"
-    },
-    {
-        "post_id": 47560967,
-        "title": "A Recipe for Steganogravy",
-        "category": "sports",
-        "score": 86,
-        "num_comments": 16,
-        "author": "tbrockman",
-        "collected_at": "2026-04-03 22:55:00"
-    },
-    {
-        "post_id": 47624811,
-        "title": "SSH certificates the better SSH experience",
-        "category": "sports",
-        "score": 119,
-        "num_comments": 43,
-        "author": "jandeboevrie",
-        "collected_at": "2026-04-03 22:55:01"
-    },
-    {
-        "post_id": 47616242,
-        "title": "Decisions that eroded trust in Azure  by a former Azure Core engineer",
-        "category": "sports",
-        "score": 1072,
-        "num_comments": 506,
-        "author": "axelriet",
-        "collected_at": "2026-04-03 22:55:02"
-    },
-    {
-        "post_id": 47628608,
-        "title": "If youre running OpenClaw you probably got hacked in the last week",
-        "category": "sports",
-        "score": 62,
-        "num_comments": 19,
-        "author": "kykeonaut",
-        "collected_at": "2026-04-03 22:55:04"
-    },
-    {
-        "post_id": 47561678,
-        "title": "ESP32S31 DualCore RISCV SoC with WiFi 6 Bluetooth 54 and Advanced HMI",
-        "category": "sports",
-        "score": 155,
-        "num_comments": 82,
-        "author": "topspin",
-        "collected_at": "2026-04-03 22:55:05"
-    },
-    {
-        "post_id": 47625639,
-        "title": "TDF ejects its core developers",
-        "category": "sports",
-        "score": 107,
-        "num_comments": 77,
-        "author": "janvdberg",
-        "collected_at": "2026-04-03 22:55:06"
-    },
-    {
-        "post_id": 47627061,
-        "title": "Solar and batteries can power the world",
-        "category": "sports",
-        "score": 187,
-        "num_comments": 271,
-        "author": "edent",
-        "collected_at": "2026-04-03 22:55:07"
-    },
-    {
-        "post_id": 47624736,
-        "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
-        "category": "sports",
-        "score": 240,
-        "num_comments": 92,
-        "author": "chrisjj",
-        "collected_at": "2026-04-03 22:55:08"
-    },
-    {
-        "post_id": 47624804,
-        "title": "Category Theory Illustrated  Types",
-        "category": "sports",
-        "score": 42,
-        "num_comments": 1,
-        "author": "boris_m",
-        "collected_at": "2026-04-03 22:55:09"
-    },
-    {
-        "post_id": 47629013,
-        "title": "Mercurial Dyson  a plan for the disassembly of planet Mercury",
-        "category": "sports",
-        "score": 13,
+        "score": 20,
         "num_comments": 4,
-        "author": "indy",
-        "collected_at": "2026-04-03 22:55:10"
-    },
-    {
-        "post_id": 47629306,
-        "title": "Pharmaceuticals face 100 tariffs in US  unless firms strike a deal",
-        "category": "sports",
-        "score": 8,
-        "num_comments": 1,
-        "author": "geox",
-        "collected_at": "2026-04-03 22:55:12"
-    },
-    {
-        "post_id": 47627527,
-        "title": "Build your own Dialup ISP with a Raspberry Pi",
-        "category": "sports",
-        "score": 7,
-        "num_comments": 1,
-        "author": "arjunbajaj",
-        "collected_at": "2026-04-03 22:55:13"
-    },
-    {
-        "post_id": 47616361,
-        "title": "Google releases Gemma 4 open models",
-        "category": "sports",
-        "score": 1677,
-        "num_comments": 445,
-        "author": "jeffmcjunkin",
-        "collected_at": "2026-04-03 22:55:14"
-    },
-    {
-        "post_id": 47618084,
-        "title": "Cursor 3",
-        "category": "sports",
-        "score": 509,
-        "num_comments": 372,
-        "author": "adamfeldman",
-        "collected_at": "2026-04-03 22:55:15"
-    },
-    {
-        "post_id": 47609356,
-        "title": "Artemis IIs toilet is a moon mission milestone",
-        "category": "sports",
-        "score": 312,
-        "num_comments": 149,
-        "author": "1659447091",
-        "collected_at": "2026-04-03 22:55:17"
-    },
-    {
-        "post_id": 47598413,
-        "title": "C89ccsh  standalone C89ELF64 compiler in pure portable shell",
-        "category": "sports",
-        "score": 178,
-        "num_comments": 56,
-        "author": "gaigalas",
-        "collected_at": "2026-04-03 22:55:20"
-    },
-    {
-        "post_id": 47561913,
-        "title": "Vector Meson Dominance",
-        "category": "sports",
-        "score": 51,
-        "num_comments": 6,
-        "author": "chmaynard",
-        "collected_at": "2026-04-03 22:55:22"
-    },
-    {
-        "post_id": 47593861,
-        "title": "Maze Algorithms 1997",
-        "category": "sports",
-        "score": 82,
-        "num_comments": 28,
-        "author": "marukodo",
-        "collected_at": "2026-04-03 22:55:23"
-    },
-    {
-        "post_id": 47562762,
-        "title": "Significant progress made on Xbox 360 recompilation",
-        "category": "sports",
-        "score": 145,
-        "num_comments": 30,
-        "author": "tetrisgm",
-        "collected_at": "2026-04-03 22:55:24"
-    },
-    {
-        "post_id": 47618176,
-        "title": "George Goble has died",
-        "category": "sports",
-        "score": 165,
-        "num_comments": 38,
-        "author": "finaard",
-        "collected_at": "2026-04-03 22:55:25"
-    },
-    {
-        "post_id": 47624691,
-        "title": "HarfBuzz Slug Support with WebGL",
-        "category": "sports",
-        "score": 19,
-        "num_comments": 3,
         "author": "mcraiha",
-        "collected_at": "2026-04-03 22:55:26"
+        "collected_at": "2026-04-03 23:37:50"
     },
     {
-        "post_id": 47626462,
-        "title": "BigEndian Testing with QEMU",
-        "category": "science",
-        "score": 55,
-        "num_comments": 37,
-        "author": "jandeboevrie",
-        "collected_at": "2026-04-03 22:55:30"
+        "post_id": 47621448,
+        "title": "A Few Good Magazines From the 70s and 80s",
+        "category": "worldnews",
+        "score": 66,
+        "num_comments": 28,
+        "author": "OhMeadhbh",
+        "collected_at": "2026-04-03 23:37:52"
     },
     {
-        "post_id": 47567222,
-        "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
-        "category": "science",
-        "score": 211,
-        "num_comments": 119,
-        "author": "chalmovsky",
-        "collected_at": "2026-04-03 22:55:31"
+        "post_id": 47615002,
+        "title": "Qwen36Plus Towards real world agents",
+        "category": "worldnews",
+        "score": 569,
+        "num_comments": 197,
+        "author": "pretext",
+        "collected_at": "2026-04-03 23:37:53"
     },
     {
-        "post_id": 47624731,
-        "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-        "category": "science",
-        "score": 206,
-        "num_comments": 88,
-        "author": "greenstevester",
-        "collected_at": "2026-04-03 22:55:32"
+        "post_id": 47551847,
+        "title": "The Joy of Numbered Streets",
+        "category": "worldnews",
+        "score": 59,
+        "num_comments": 36,
+        "author": "dmit",
+        "collected_at": "2026-04-03 23:37:55"
     },
     {
-        "post_id": 47627056,
-        "title": "Marc Andreessen is wrong about introspection",
-        "category": "science",
-        "score": 317,
-        "num_comments": 305,
-        "author": "surprisetalk",
-        "collected_at": "2026-04-03 22:55:33"
+        "post_id": 47614100,
+        "title": "Backrooms and the Rise of the Institutional Gothic",
+        "category": "worldnews",
+        "score": 210,
+        "num_comments": 102,
+        "author": "anarbadalov",
+        "collected_at": "2026-04-03 23:37:56"
     },
     {
-        "post_id": 47560967,
-        "title": "A Recipe for Steganogravy",
-        "category": "science",
-        "score": 86,
-        "num_comments": 16,
-        "author": "tbrockman",
-        "collected_at": "2026-04-03 22:55:34"
+        "post_id": 47603657,
+        "title": "Artemis II Launch Day Updates",
+        "category": "worldnews",
+        "score": 1086,
+        "num_comments": 940,
+        "author": "apitman",
+        "collected_at": "2026-04-03 23:37:57"
     },
     {
-        "post_id": 47624811,
-        "title": "SSH certificates the better SSH experience",
-        "category": "science",
-        "score": 119,
-        "num_comments": 43,
-        "author": "jandeboevrie",
-        "collected_at": "2026-04-03 22:55:35"
+        "post_id": 47624990,
+        "title": "Adobe wrote to my hosts file Ive never had an app do this before",
+        "category": "worldnews",
+        "score": 70,
+        "num_comments": 17,
+        "author": "speckx",
+        "collected_at": "2026-04-03 23:37:59"
     },
     {
-        "post_id": 47616242,
-        "title": "Decisions that eroded trust in Azure  by a former Azure Core engineer",
-        "category": "science",
-        "score": 1075,
-        "num_comments": 506,
-        "author": "axelriet",
-        "collected_at": "2026-04-03 22:55:36"
+        "post_id": 47626258,
+        "title": "The more evidence behind a therapy the less the public trusts it",
+        "category": "worldnews",
+        "score": 26,
+        "num_comments": 11,
+        "author": "clumsysmurf",
+        "collected_at": "2026-04-03 23:38:00"
     },
     {
-        "post_id": 47628608,
-        "title": "If youre running OpenClaw you probably got hacked in the last week",
-        "category": "science",
+        "post_id": 47628860,
+        "title": "Meta Has a New Linux Optimization Avoid Throttling TCP Throughput Unnecessarily",
+        "category": "worldnews",
+        "score": 5,
+        "num_comments": 0,
+        "author": "Bender",
+        "collected_at": "2026-04-03 23:38:00"
+    },
+    {
+        "post_id": 47624440,
+        "title": "A CSS Engine in OCaml",
+        "category": "worldnews",
+        "score": 10,
+        "num_comments": 0,
+        "author": "p4bl0",
+        "collected_at": "2026-04-03 23:38:01"
+    },
+    {
+        "post_id": 47611481,
+        "title": "Bringing Clojure programming to Enterprise 2021",
+        "category": "worldnews",
+        "score": 196,
+        "num_comments": 112,
+        "author": "smartmic",
+        "collected_at": "2026-04-03 23:38:02"
+    },
+    {
+        "post_id": 47582987,
+        "title": "Gone Almost Phishin",
+        "category": "worldnews",
+        "score": 180,
+        "num_comments": 87,
+        "author": "luu",
+        "collected_at": "2026-04-03 23:38:05"
+    },
+    {
+        "post_id": 47613981,
+        "title": "LinkedIn is searching your browser extensions",
+        "category": "sports",
+        "score": 1839,
+        "num_comments": 740,
+        "author": "digitalWestie",
+        "collected_at": "2026-04-03 23:39:11"
+    },
+    {
+        "post_id": 47540441,
+        "title": "Reinventing the pull request",
+        "category": "sports",
+        "score": 106,
+        "num_comments": 83,
+        "author": "bkolobara",
+        "collected_at": "2026-04-03 23:39:12"
+    },
+    {
+        "post_id": 47592614,
+        "title": "Prefer do notation over Applicative operators when assembling records 2024",
+        "category": "sports",
+        "score": 52,
+        "num_comments": 12,
+        "author": "wazHFsRy",
+        "collected_at": "2026-04-03 23:39:13"
+    },
+    {
+        "post_id": 47575557,
+        "title": "Magic the Gathering Deck Shuffler",
+        "category": "sports",
         "score": 63,
-        "num_comments": 20,
-        "author": "kykeonaut",
-        "collected_at": "2026-04-03 22:55:39"
+        "num_comments": 15,
+        "author": "mooreds",
+        "collected_at": "2026-04-03 23:39:14"
     },
     {
-        "post_id": 47561678,
-        "title": "ESP32S31 DualCore RISCV SoC with WiFi 6 Bluetooth 54 and Advanced HMI",
-        "category": "science",
-        "score": 155,
-        "num_comments": 82,
-        "author": "topspin",
-        "collected_at": "2026-04-03 22:55:40"
+        "post_id": 47609564,
+        "title": "Steam on Linux Use Skyrocketed Above 5 in March",
+        "category": "sports",
+        "score": 756,
+        "num_comments": 357,
+        "author": "hkmaxpro",
+        "collected_at": "2026-04-03 23:39:15"
     },
     {
-        "post_id": 47625639,
-        "title": "TDF ejects its core developers",
-        "category": "science",
-        "score": 107,
-        "num_comments": 77,
-        "author": "janvdberg",
-        "collected_at": "2026-04-03 22:55:40"
+        "post_id": 47615449,
+        "title": "Artemis II will use laser beams to livestream 4K moon footage at 260 Mbps",
+        "category": "sports",
+        "score": 360,
+        "num_comments": 149,
+        "author": "speckx",
+        "collected_at": "2026-04-03 23:39:17"
     },
     {
-        "post_id": 47627061,
-        "title": "Solar and batteries can power the world",
-        "category": "science",
-        "score": 188,
-        "num_comments": 272,
-        "author": "edent",
-        "collected_at": "2026-04-03 22:55:41"
+        "post_id": 47624270,
+        "title": "Q148637 Windows 9598 Overwrites BootSector Field on Floppy Disks 2001",
+        "category": "sports",
+        "score": 6,
+        "num_comments": 2,
+        "author": "TMWNN",
+        "collected_at": "2026-04-03 23:39:18"
     },
     {
-        "post_id": 47624736,
-        "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
-        "category": "science",
-        "score": 240,
-        "num_comments": 92,
-        "author": "chrisjj",
-        "collected_at": "2026-04-03 22:55:42"
+        "post_id": 47624558,
+        "title": "Proton meet isnt what they told you it was",
+        "category": "sports",
+        "score": 157,
+        "num_comments": 145,
+        "author": "bundie",
+        "collected_at": "2026-04-03 23:39:22"
     },
     {
-        "post_id": 47624804,
-        "title": "Category Theory Illustrated  Types",
-        "category": "science",
-        "score": 42,
+        "post_id": 47574851,
+        "title": "Foxing aspires to be an eBPFpowered replication engine for Linux filesystems",
+        "category": "sports",
+        "score": 48,
+        "num_comments": 6,
+        "author": "tanelpoder",
+        "collected_at": "2026-04-03 23:39:23"
+    },
+    {
+        "post_id": 47615434,
+        "title": "Delve allegedly forked an opensource tool and sold it as its own",
+        "category": "sports",
+        "score": 294,
+        "num_comments": 149,
+        "author": "nickvec",
+        "collected_at": "2026-04-03 23:39:24"
+    },
+    {
+        "post_id": 47574600,
+        "title": "Queueing Requests Queues Your Capacity Problems Too",
+        "category": "sports",
+        "score": 32,
+        "num_comments": 19,
+        "author": "mhawthorne",
+        "collected_at": "2026-04-03 23:39:25"
+    },
+    {
+        "post_id": 47621518,
+        "title": "Tor Alva The Tallest 3DPrinted Building in the World",
+        "category": "sports",
+        "score": 44,
+        "num_comments": 12,
+        "author": "sohkamyung",
+        "collected_at": "2026-04-03 23:39:26"
+    },
+    {
+        "post_id": 47618120,
+        "title": "Hugos New CSS Powers",
+        "category": "sports",
+        "score": 50,
+        "num_comments": 11,
+        "author": "speckx",
+        "collected_at": "2026-04-03 23:39:27"
+    },
+    {
+        "post_id": 47611721,
+        "title": "IBM Announces Strategic Collaboration with Arm",
+        "category": "sports",
+        "score": 273,
+        "num_comments": 188,
+        "author": "bonzini",
+        "collected_at": "2026-04-03 23:39:29"
+    },
+    {
+        "post_id": 47613078,
+        "title": "Inside Nepals Fake Rescue Racket",
+        "category": "sports",
+        "score": 301,
+        "num_comments": 132,
+        "author": "lode",
+        "collected_at": "2026-04-03 23:39:31"
+    },
+    {
+        "post_id": 47579942,
+        "title": "Built a cheap DIY fan controller because my motherboard never had working PWM",
+        "category": "sports",
+        "score": 75,
+        "num_comments": 41,
+        "author": "bobsterlobster",
+        "collected_at": "2026-04-03 23:39:33"
+    },
+    {
+        "post_id": 47609882,
+        "title": "Subscription bombing and how to mitigate it",
+        "category": "sports",
+        "score": 293,
+        "num_comments": 179,
+        "author": "homelessdino",
+        "collected_at": "2026-04-03 23:39:34"
+    },
+    {
+        "post_id": 47563486,
+        "title": "Emacslibgterm Terminal emulator for Emacs using libghosttyvt",
+        "category": "sports",
+        "score": 89,
+        "num_comments": 30,
+        "author": "signa11",
+        "collected_at": "2026-04-03 23:39:35"
+    },
+    {
+        "post_id": 47627595,
+        "title": "Porting Gos strings package to C",
+        "category": "sports",
+        "score": 6,
         "num_comments": 1,
-        "author": "boris_m",
-        "collected_at": "2026-04-03 22:55:44"
+        "author": "ingve",
+        "collected_at": "2026-04-03 23:39:37"
     },
     {
-        "post_id": 47629013,
-        "title": "Mercurial Dyson  a plan for the disassembly of planet Mercury",
+        "post_id": 47625759,
+        "title": "Names of Easter",
+        "category": "sports",
+        "score": 9,
+        "num_comments": 1,
+        "author": "throw0101c",
+        "collected_at": "2026-04-03 23:39:38"
+    },
+    {
+        "post_id": 47620939,
+        "title": "rpg A modern psqlcompatible Postgres terminal and TUI written in Rust",
+        "category": "sports",
+        "score": 18,
+        "num_comments": 2,
+        "author": "tanelpoder",
+        "collected_at": "2026-04-03 23:39:40"
+    },
+    {
+        "post_id": 47582220,
+        "title": "Axios compromised on NPM  Malicious versions drop remote access trojan",
+        "category": "sports",
+        "score": 1925,
+        "num_comments": 799,
+        "author": "mtud",
+        "collected_at": "2026-04-03 23:39:41"
+    },
+    {
+        "post_id": 47602832,
+        "title": "EmDash  A spiritual successor to WordPress that solves plugin security",
+        "category": "sports",
+        "score": 678,
+        "num_comments": 494,
+        "author": "elithrar",
+        "collected_at": "2026-04-03 23:39:45"
+    },
+    {
+        "post_id": 47618581,
+        "title": "Amazon is adding a fuel surcharge to fees it collects from thirdparty sellers",
+        "category": "sports",
+        "score": 165,
+        "num_comments": 98,
+        "author": "lehi",
+        "collected_at": "2026-04-03 23:39:46"
+    },
+    {
+        "post_id": 47610777,
+        "title": "Quad9 Enables DNS over HTTP3 and DNS over QUIC",
+        "category": "sports",
+        "score": 63,
+        "num_comments": 13,
+        "author": "itchingsphynx",
+        "collected_at": "2026-04-03 23:39:49"
+    },
+    {
+        "post_id": 47624879,
+        "title": "Switzerland hosts CERN of semiconductor research",
+        "category": "science",
+        "score": 30,
+        "num_comments": 6,
+        "author": "teleforce",
+        "collected_at": "2026-04-03 23:41:06"
+    },
+    {
+        "post_id": 47616704,
+        "title": "Modern SQLite Features You Didnt Know It Had",
+        "category": "science",
+        "score": 226,
+        "num_comments": 61,
+        "author": "thunderbong",
+        "collected_at": "2026-04-03 23:41:34"
+    },
+    {
+        "post_id": 47618100,
+        "title": "Yggdrasil Network",
+        "category": "science",
+        "score": 115,
+        "num_comments": 53,
+        "author": "Velocifyer",
+        "collected_at": "2026-04-03 23:41:35"
+    },
+    {
+        "post_id": 47547938,
+        "title": "Quadratic Micropass Type Inference",
+        "category": "science",
+        "score": 36,
+        "num_comments": 6,
+        "author": "simvux",
+        "collected_at": "2026-04-03 23:41:36"
+    },
+    {
+        "post_id": 47575554,
+        "title": "An Example of Statistical Investigation of the Text Eugene Onegin  Markov 1913 pdf",
+        "category": "science",
+        "score": 35,
+        "num_comments": 3,
+        "author": "jxmorris12",
+        "collected_at": "2026-04-03 23:41:37"
+    },
+    {
+        "post_id": 47625723,
+        "title": "What Hath Tim BernersLee Wrought",
+        "category": "science",
+        "score": 11,
+        "num_comments": 1,
+        "author": "MindGods",
+        "collected_at": "2026-04-03 23:41:39"
+    },
+    {
+        "post_id": 47622670,
+        "title": "EmDash Feedback",
+        "category": "science",
+        "score": 40,
+        "num_comments": 6,
+        "author": "batuhanicoz",
+        "collected_at": "2026-04-03 23:41:40"
+    },
+    {
+        "post_id": 47604155,
+        "title": "SpaceX files to go public",
+        "category": "science",
+        "score": 392,
+        "num_comments": 571,
+        "author": "nutjob2",
+        "collected_at": "2026-04-03 23:41:41"
+    },
+    {
+        "post_id": 47627086,
+        "title": "Chatbots are now prescribing psychiatric drugs",
         "category": "science",
         "score": 13,
         "num_comments": 4,
-        "author": "indy",
-        "collected_at": "2026-04-03 22:55:45"
+        "author": "Brajeshwar",
+        "collected_at": "2026-04-03 23:41:42"
     },
     {
-        "post_id": 47629306,
-        "title": "Pharmaceuticals face 100 tariffs in US  unless firms strike a deal",
+        "post_id": 47578582,
+        "title": "What Gdel Discovered 2020",
         "category": "science",
-        "score": 8,
-        "num_comments": 1,
-        "author": "geox",
-        "collected_at": "2026-04-03 22:55:47"
+        "score": 95,
+        "num_comments": 32,
+        "author": "qnleigh",
+        "collected_at": "2026-04-03 23:41:44"
     },
     {
-        "post_id": 47627527,
-        "title": "Build your own Dialup ISP with a Raspberry Pi",
+        "post_id": 47573450,
+        "title": "Intuiting Pratt Parsing",
         "category": "science",
-        "score": 7,
-        "num_comments": 1,
-        "author": "arjunbajaj",
-        "collected_at": "2026-04-03 22:55:47"
+        "score": 161,
+        "num_comments": 48,
+        "author": "signa11",
+        "collected_at": "2026-04-03 23:41:47"
     },
     {
-        "post_id": 47616361,
-        "title": "Google releases Gemma 4 open models",
+        "post_id": 47576106,
+        "title": "Reverse Engineering Crazy Taxi Part 2",
         "category": "science",
-        "score": 1677,
-        "num_comments": 445,
-        "author": "jeffmcjunkin",
-        "collected_at": "2026-04-03 22:55:49"
+        "score": 86,
+        "num_comments": 11,
+        "author": "wgreenberg",
+        "collected_at": "2026-04-03 23:41:48"
     },
     {
-        "post_id": 47618084,
-        "title": "Cursor 3",
+        "post_id": 47608495,
+        "title": "Quantum computing bombshells that are not April Fools",
         "category": "science",
-        "score": 509,
-        "num_comments": 372,
-        "author": "adamfeldman",
-        "collected_at": "2026-04-03 22:55:50"
+        "score": 262,
+        "num_comments": 104,
+        "author": "Strilanc",
+        "collected_at": "2026-04-03 23:41:49"
     },
     {
-        "post_id": 47609356,
-        "title": "Artemis IIs toilet is a moon mission milestone",
+        "post_id": 47627056,
+        "title": "Marc Andreessen is wrong about introspection",
         "category": "science",
-        "score": 312,
-        "num_comments": 149,
-        "author": "1659447091",
-        "collected_at": "2026-04-03 22:55:52"
+        "score": 348,
+        "num_comments": 379,
+        "author": "surprisetalk",
+        "collected_at": "2026-04-03 23:41:49"
     },
     {
-        "post_id": 47598413,
-        "title": "C89ccsh  standalone C89ELF64 compiler in pure portable shell",
+        "post_id": 47613447,
+        "title": "CC leak skills are better than I thought",
         "category": "science",
-        "score": 178,
-        "num_comments": 56,
-        "author": "gaigalas",
-        "collected_at": "2026-04-03 22:55:55"
+        "score": 42,
+        "num_comments": 14,
+        "author": "KaseKun",
+        "collected_at": "2026-04-03 23:41:53"
     },
     {
-        "post_id": 47561913,
-        "title": "Vector Meson Dominance",
+        "post_id": 47561606,
+        "title": "Working on Products People Hate",
         "category": "science",
-        "score": 51,
-        "num_comments": 6,
-        "author": "chmaynard",
-        "collected_at": "2026-04-03 22:55:57"
+        "score": 59,
+        "num_comments": 59,
+        "author": "herbertl",
+        "collected_at": "2026-04-03 23:41:55"
     },
     {
-        "post_id": 47593861,
-        "title": "Maze Algorithms 1997",
+        "post_id": 47621048,
+        "title": "Why Doesnt Anybody Realize Were Going Back to the Moon",
         "category": "science",
-        "score": 82,
-        "num_comments": 28,
-        "author": "marukodo",
-        "collected_at": "2026-04-03 22:55:58"
+        "score": 78,
+        "num_comments": 144,
+        "author": "paulpauper",
+        "collected_at": "2026-04-03 23:41:57"
     },
     {
-        "post_id": 47562762,
-        "title": "Significant progress made on Xbox 360 recompilation",
+        "post_id": 47606840,
+        "title": "DRAM pricing is killing the hobbyist SBC market",
         "category": "science",
-        "score": 145,
-        "num_comments": 30,
-        "author": "tetrisgm",
-        "collected_at": "2026-04-03 22:55:59"
+        "score": 618,
+        "num_comments": 531,
+        "author": "ingve",
+        "collected_at": "2026-04-03 23:41:59"
     },
     {
-        "post_id": 47618176,
-        "title": "George Goble has died",
+        "post_id": 47619990,
+        "title": "The machines are fine Im worried about us",
         "category": "science",
-        "score": 165,
-        "num_comments": 38,
-        "author": "finaard",
-        "collected_at": "2026-04-03 22:56:00"
-    },
-    {
-        "post_id": 47624691,
-        "title": "HarfBuzz Slug Support with WebGL",
-        "category": "science",
-        "score": 19,
+        "score": 13,
         "num_comments": 3,
-        "author": "mcraiha",
-        "collected_at": "2026-04-03 22:56:01"
+        "author": "hmpc",
+        "collected_at": "2026-04-03 23:42:00"
+    },
+    {
+        "post_id": 47611809,
+        "title": "New laws to make it easier to cancel subscriptions and get refunds",
+        "category": "science",
+        "score": 155,
+        "num_comments": 66,
+        "author": "chrisjj",
+        "collected_at": "2026-04-03 23:42:01"
+    },
+    {
+        "post_id": 47584386,
+        "title": "Fast and Gorgeous Erosion Filter",
+        "category": "science",
+        "score": 235,
+        "num_comments": 24,
+        "author": "runevision",
+        "collected_at": "2026-04-03 23:42:02"
+    },
+    {
+        "post_id": 47605494,
+        "title": "Jaxs true calling RayMarching renderers on WebGL",
+        "category": "science",
+        "score": 88,
+        "num_comments": 14,
+        "author": "BenoitP",
+        "collected_at": "2026-04-03 23:42:03"
+    },
+    {
+        "post_id": 47608058,
+        "title": "A new C back end for ocamlc",
+        "category": "science",
+        "score": 234,
+        "num_comments": 20,
+        "author": "glittershark",
+        "collected_at": "2026-04-03 23:42:04"
+    },
+    {
+        "post_id": 47558073,
+        "title": "Ariane 6 users manual pdf",
+        "category": "science",
+        "score": 71,
+        "num_comments": 24,
+        "author": "matthieu_bl",
+        "collected_at": "2026-04-03 23:42:06"
+    },
+    {
+        "post_id": 47626607,
+        "title": "Democrats launch probe into Hegseths alleged effort to buy up defense stocks",
+        "category": "science",
+        "score": 13,
+        "num_comments": 0,
+        "author": "mandeepj",
+        "collected_at": "2026-04-03 23:42:08"
     },
     {
         "post_id": 47625952,
         "title": "Show HN I built a frontpage for personal blogs",
         "category": "entertainment",
-        "score": 386,
-        "num_comments": 122,
+        "score": 442,
+        "num_comments": 133,
         "author": "ramkarthikk",
-        "collected_at": "2026-04-03 22:56:04"
-    },
-    {
-        "post_id": 47626462,
-        "title": "BigEndian Testing with QEMU",
-        "category": "entertainment",
-        "score": 55,
-        "num_comments": 37,
-        "author": "jandeboevrie",
-        "collected_at": "2026-04-03 22:56:05"
-    },
-    {
-        "post_id": 47567222,
-        "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
-        "category": "entertainment",
-        "score": 211,
-        "num_comments": 120,
-        "author": "chalmovsky",
-        "collected_at": "2026-04-03 22:56:06"
-    },
-    {
-        "post_id": 47624731,
-        "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-        "category": "entertainment",
-        "score": 206,
-        "num_comments": 88,
-        "author": "greenstevester",
-        "collected_at": "2026-04-03 22:56:07"
-    },
-    {
-        "post_id": 47627056,
-        "title": "Marc Andreessen is wrong about introspection",
-        "category": "entertainment",
-        "score": 317,
-        "num_comments": 306,
-        "author": "surprisetalk",
-        "collected_at": "2026-04-03 22:56:08"
+        "collected_at": "2026-04-03 23:42:12"
     },
     {
         "post_id": 47562135,
         "title": "Show HN TurboQuant for vector search  24 bit compression",
         "category": "entertainment",
-        "score": 18,
+        "score": 36,
         "num_comments": 2,
         "author": "justsomeguy1996",
-        "collected_at": "2026-04-03 22:56:09"
+        "collected_at": "2026-04-03 23:42:17"
     },
     {
-        "post_id": 47560967,
-        "title": "A Recipe for Steganogravy",
+        "post_id": 47621438,
+        "title": "Show HN Made a little Artemis II tracker",
         "category": "entertainment",
-        "score": 86,
-        "num_comments": 16,
-        "author": "tbrockman",
-        "collected_at": "2026-04-03 22:56:09"
+        "score": 135,
+        "num_comments": 53,
+        "author": "codingmoh",
+        "collected_at": "2026-04-03 23:43:02"
     },
     {
-        "post_id": 47624811,
-        "title": "SSH certificates the better SSH experience",
+        "post_id": 47625385,
+        "title": "H264 Streaming Fees What Changed Whos Affected and What It Means",
         "category": "entertainment",
-        "score": 119,
-        "num_comments": 43,
-        "author": "jandeboevrie",
-        "collected_at": "2026-04-03 22:56:10"
+        "score": 67,
+        "num_comments": 38,
+        "author": "phantomathkg",
+        "collected_at": "2026-04-03 23:43:18"
     },
     {
-        "post_id": 47616242,
-        "title": "Decisions that eroded trust in Azure  by a former Azure Core engineer",
+        "post_id": 47560959,
+        "title": "Show HN Home Maker Declare Your Dev Tools in a Makefile",
         "category": "entertainment",
-        "score": 1075,
-        "num_comments": 507,
-        "author": "axelriet",
-        "collected_at": "2026-04-03 22:56:11"
+        "score": 89,
+        "num_comments": 58,
+        "author": "sthottingal",
+        "collected_at": "2026-04-03 23:43:18"
     },
     {
-        "post_id": 47628608,
-        "title": "If youre running OpenClaw you probably got hacked in the last week",
+        "post_id": 47615844,
+        "title": "Show HN A P2P messenger with dual network modes Fast and Tor",
         "category": "entertainment",
-        "score": 63,
-        "num_comments": 20,
-        "author": "kykeonaut",
-        "collected_at": "2026-04-03 22:56:14"
+        "score": 35,
+        "num_comments": 21,
+        "author": "Realman78",
+        "collected_at": "2026-04-03 23:43:40"
     },
     {
-        "post_id": 47561678,
-        "title": "ESP32S31 DualCore RISCV SoC with WiFi 6 Bluetooth 54 and Advanced HMI",
-        "category": "entertainment",
-        "score": 155,
-        "num_comments": 82,
-        "author": "topspin",
-        "collected_at": "2026-04-03 22:56:14"
-    },
-    {
-        "post_id": 47625639,
-        "title": "TDF ejects its core developers",
-        "category": "entertainment",
-        "score": 107,
-        "num_comments": 77,
-        "author": "janvdberg",
-        "collected_at": "2026-04-03 22:56:15"
-    },
-    {
-        "post_id": 47627061,
-        "title": "Solar and batteries can power the world",
-        "category": "entertainment",
-        "score": 188,
-        "num_comments": 272,
-        "author": "edent",
-        "collected_at": "2026-04-03 22:56:16"
-    },
-    {
-        "post_id": 47624736,
-        "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
-        "category": "entertainment",
-        "score": 240,
-        "num_comments": 92,
-        "author": "chrisjj",
-        "collected_at": "2026-04-03 22:56:17"
-    },
-    {
-        "post_id": 47624804,
-        "title": "Category Theory Illustrated  Types",
-        "category": "entertainment",
-        "score": 42,
-        "num_comments": 1,
-        "author": "boris_m",
-        "collected_at": "2026-04-03 22:56:19"
-    },
-    {
-        "post_id": 47629013,
-        "title": "Mercurial Dyson  a plan for the disassembly of planet Mercury",
-        "category": "entertainment",
-        "score": 13,
-        "num_comments": 4,
-        "author": "indy",
-        "collected_at": "2026-04-03 22:56:20"
-    },
-    {
-        "post_id": 47629306,
-        "title": "Pharmaceuticals face 100 tariffs in US  unless firms strike a deal",
-        "category": "entertainment",
-        "score": 8,
-        "num_comments": 1,
-        "author": "geox",
-        "collected_at": "2026-04-03 22:56:21"
-    },
-    {
-        "post_id": 47627527,
-        "title": "Build your own Dialup ISP with a Raspberry Pi",
-        "category": "entertainment",
-        "score": 7,
-        "num_comments": 1,
-        "author": "arjunbajaj",
-        "collected_at": "2026-04-03 22:56:22"
-    },
-    {
-        "post_id": 47616361,
-        "title": "Google releases Gemma 4 open models",
-        "category": "entertainment",
-        "score": 1677,
-        "num_comments": 445,
-        "author": "jeffmcjunkin",
-        "collected_at": "2026-04-03 22:56:24"
-    },
-    {
-        "post_id": 47618084,
-        "title": "Cursor 3",
-        "category": "entertainment",
-        "score": 509,
-        "num_comments": 372,
-        "author": "adamfeldman",
-        "collected_at": "2026-04-03 22:56:25"
-    },
-    {
-        "post_id": 47609356,
-        "title": "Artemis IIs toilet is a moon mission milestone",
-        "category": "entertainment",
-        "score": 312,
-        "num_comments": 149,
-        "author": "1659447091",
-        "collected_at": "2026-04-03 22:56:27"
-    },
-    {
-        "post_id": 47598413,
-        "title": "C89ccsh  standalone C89ELF64 compiler in pure portable shell",
-        "category": "entertainment",
-        "score": 178,
-        "num_comments": 56,
-        "author": "gaigalas",
-        "collected_at": "2026-04-03 22:56:30"
-    },
-    {
-        "post_id": 47561913,
-        "title": "Vector Meson Dominance",
-        "category": "entertainment",
-        "score": 51,
-        "num_comments": 6,
-        "author": "chmaynard",
-        "collected_at": "2026-04-03 22:56:32"
-    },
-    {
-        "post_id": 47593861,
-        "title": "Maze Algorithms 1997",
-        "category": "entertainment",
-        "score": 82,
-        "num_comments": 28,
-        "author": "marukodo",
-        "collected_at": "2026-04-03 22:56:33"
-    },
-    {
-        "post_id": 47562762,
-        "title": "Significant progress made on Xbox 360 recompilation",
+        "post_id": 47606560,
+        "title": "Show HN Dull  Instagram Without Reels YouTube Without Shorts iOS",
         "category": "entertainment",
         "score": 145,
-        "num_comments": 30,
-        "author": "tetrisgm",
-        "collected_at": "2026-04-03 22:56:34"
+        "num_comments": 113,
+        "author": "kasparnoor",
+        "collected_at": "2026-04-03 23:43:43"
+    },
+    {
+        "post_id": 47612601,
+        "title": "Sweden goes back to basics swapping screens for books in the classroom",
+        "category": "entertainment",
+        "score": 882,
+        "num_comments": 423,
+        "author": "novaRom",
+        "collected_at": "2026-04-03 23:43:46"
+    },
+    {
+        "post_id": 47612321,
+        "title": "Show HN I built a DNS resolver from scratch in Rust  no DNS libraries",
+        "category": "entertainment",
+        "score": 104,
+        "num_comments": 63,
+        "author": "rdme",
+        "collected_at": "2026-04-03 23:43:57"
+    },
+    {
+        "post_id": 47612277,
+        "title": "Almighty Lisp Lisp and Emacs Essentials Book",
+        "category": "entertainment",
+        "score": 66,
+        "num_comments": 4,
+        "author": "nemoniac",
+        "collected_at": "2026-04-03 23:44:02"
+    },
+    {
+        "post_id": 47618247,
+        "title": "Show HN SyNumpy  a Header only C17 library for working with NumPy Arrays",
+        "category": "entertainment",
+        "score": 19,
+        "num_comments": 3,
+        "author": "symisc_devel",
+        "collected_at": "2026-04-03 23:44:04"
+    },
+    {
+        "post_id": 47626598,
+        "title": "Show HN ctx  an Agentic Development Environment ADE",
+        "category": "entertainment",
+        "score": 37,
+        "num_comments": 51,
+        "author": "luca-ctx",
+        "collected_at": "2026-04-03 23:45:17"
+    },
+    {
+        "post_id": 47557921,
+        "title": "Show HN Git bayesect  Bayesian Git bisection for nondeterministic bugs",
+        "category": "entertainment",
+        "score": 334,
+        "num_comments": 44,
+        "author": "hauntsaninja",
+        "collected_at": "2026-04-03 23:45:26"
+    },
+    {
+        "post_id": 47597935,
+        "title": "CERN levels up with new superconducting karts",
+        "category": "entertainment",
+        "score": 394,
+        "num_comments": 85,
+        "author": "fnands",
+        "collected_at": "2026-04-03 23:45:31"
+    },
+    {
+        "post_id": 47609090,
+        "title": "The Weather Channel  RetroCast",
+        "category": "entertainment",
+        "score": 314,
+        "num_comments": 60,
+        "author": "typeofhuman",
+        "collected_at": "2026-04-03 23:45:33"
+    },
+    {
+        "post_id": 47558101,
+        "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+        "category": "entertainment",
+        "score": 124,
+        "num_comments": 28,
+        "author": "ingve",
+        "collected_at": "2026-04-03 23:45:34"
+    },
+    {
+        "post_id": 47573138,
+        "title": "Set the Line Before Its Crossed",
+        "category": "entertainment",
+        "score": 79,
+        "num_comments": 48,
+        "author": "surprisetalk",
+        "collected_at": "2026-04-03 23:45:36"
+    },
+    {
+        "post_id": 47605374,
+        "title": "Scientists crack a 20year nuclear mystery behind the creation of gold",
+        "category": "entertainment",
+        "score": 84,
+        "num_comments": 39,
+        "author": "prabal97",
+        "collected_at": "2026-04-03 23:45:37"
+    },
+    {
+        "post_id": 47550433,
+        "title": "Teenage Engineerings PO32 acoustic modem and synth implementation",
+        "category": "entertainment",
+        "score": 148,
+        "num_comments": 35,
+        "author": "ericlewis",
+        "collected_at": "2026-04-03 23:45:38"
+    },
+    {
+        "post_id": 47601859,
+        "title": "Ask HN Who is hiring April 2026",
+        "category": "entertainment",
+        "score": 270,
+        "num_comments": 321,
+        "author": "whoishiring",
+        "collected_at": "2026-04-03 23:45:39"
+    },
+    {
+        "post_id": 47539945,
+        "title": "Consider the Greenland Shark 2020",
+        "category": "entertainment",
+        "score": 88,
+        "num_comments": 39,
+        "author": "mooreds",
+        "collected_at": "2026-04-03 23:45:39"
+    },
+    {
+        "post_id": 47597119,
+        "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
+        "category": "entertainment",
+        "score": 267,
+        "num_comments": 102,
+        "author": "ishqdehlvi",
+        "collected_at": "2026-04-03 23:45:40"
+    },
+    {
+        "post_id": 47601555,
+        "title": "Apple removes iPhone vibe coding app from app store",
+        "category": "entertainment",
+        "score": 65,
+        "num_comments": 57,
+        "author": "randycupertino",
+        "collected_at": "2026-04-03 23:45:41"
+    },
+    {
+        "post_id": 47582043,
+        "title": "Artemis II is not safe to fly",
+        "category": "entertainment",
+        "score": 897,
+        "num_comments": 629,
+        "author": "idlewords",
+        "collected_at": "2026-04-03 23:45:43"
+    },
+    {
+        "post_id": 47593556,
+        "title": "A dot a day keeps the clutter away",
+        "category": "entertainment",
+        "score": 574,
+        "num_comments": 168,
+        "author": "scottlawson",
+        "collected_at": "2026-04-03 23:45:44"
     }
 ]

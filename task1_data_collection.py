@@ -10,6 +10,7 @@ TOP_STORIES_URL = "https://hacker-news.firebaseio.com/v0/topstories.json"
 ITEM_URL = "https://hacker-news.firebaseio.com/v0/item/{}.json"
 
 headers = {"User-Agent": "TrendPulse/1.0"}
+used_ids = set()
 
 CATEGORIES = {
     "technology": ["ai", "software", "tech", "code", "computer", "data", "cloud", "api", "gpu", "llm"],
@@ -80,9 +81,9 @@ def main():
             else:
                 match = False
 
-            if match:
+            if match and story.get("id") not in used_ids:
                 print(f"[{category}] {count+1} -> {title[:60]}")
-
+                used_ids.add(story.get("id"))
                 collected_stories.append({
                     "post_id": story.get("id"),
                     "title": title,

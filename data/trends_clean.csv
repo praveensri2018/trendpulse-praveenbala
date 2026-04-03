@@ -1,34 +1,126 @@
 post_id,title,category,score,num_comments,author,collected_at
-47626462,BigEndian Testing with QEMU,technology,55,37,jandeboevrie,2026-04-03 22:53:55
-47567222,Samsung Magician disk utility takes 18 steps and two reboots to uninstall,technology,211,119,chalmovsky,2026-04-03 22:53:56
-47624731,April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini,technology,205,88,greenstevester,2026-04-03 22:53:57
-47627056,Marc Andreessen is wrong about introspection,technology,314,304,surprisetalk,2026-04-03 22:53:57
-47560967,A Recipe for Steganogravy,technology,86,16,tbrockman,2026-04-03 22:53:59
-47624811,SSH certificates the better SSH experience,technology,117,43,jandeboevrie,2026-04-03 22:54:00
-47616242,Decisions that eroded trust in Azure  by a former Azure Core engineer,technology,1072,506,axelriet,2026-04-03 22:54:01
-47624645,Show HN Apfel  The free AI already on your Mac,technology,519,117,franze,2026-04-03 22:54:02
-47561426,What Category Theory Teaches Us About DataFrames,technology,133,42,mchav,2026-04-03 22:54:03
-47628608,If youre running OpenClaw you probably got hacked in the last week,technology,60,19,kykeonaut,2026-04-03 22:54:03
-47561678,ESP32S31 DualCore RISCV SoC with WiFi 6 Bluetooth 54 and Advanced HMI,technology,155,82,topspin,2026-04-03 22:54:04
-47625639,TDF ejects its core developers,technology,107,77,janvdberg,2026-04-03 22:54:05
-47627061,Solar and batteries can power the world,technology,187,270,edent,2026-04-03 22:54:06
-47624736,NHS staff refusing to use FDP over Palantir ethical concerns,technology,240,92,chrisjj,2026-04-03 22:54:07
-47579818,What we learned building 100 API integrations with OpenCode,technology,62,13,rguldener,2026-04-03 22:54:08
-47624804,Category Theory Illustrated  Types,technology,42,1,boris_m,2026-04-03 22:54:09
-47629013,Mercurial Dyson  a plan for the disassembly of planet Mercury,technology,12,4,indy,2026-04-03 22:54:10
-47573728,Intel Assured Supply Chain Product Brief,technology,40,8,aw-engineer,2026-04-03 22:54:10
-47629306,Pharmaceuticals face 100 tariffs in US  unless firms strike a deal,technology,8,1,geox,2026-04-03 22:54:11
-47627527,Build your own Dialup ISP with a Raspberry Pi,technology,7,1,arjunbajaj,2026-04-03 22:54:12
-47618189,Tailscales new macOS home,technology,529,276,tosh,2026-04-03 22:54:13
-47616361,Google releases Gemma 4 open models,technology,1677,445,jeffmcjunkin,2026-04-03 22:54:14
-47618084,Cursor 3,technology,509,372,adamfeldman,2026-04-03 22:54:15
-47625244,Critics say EU risks ceding control of its tech laws under US pressure,technology,171,103,nickslaughter02,2026-04-03 22:54:15
-47609356,Artemis IIs toilet is a moon mission milestone,technology,312,149,1659447091,2026-04-03 22:54:17
-47598413,C89ccsh  standalone C89ELF64 compiler in pure portable shell,worldnews,178,56,gaigalas,2026-04-03 22:54:46
-47561913,Vector Meson Dominance,worldnews,51,6,chmaynard,2026-04-03 22:54:47
-47593861,Maze Algorithms 1997,worldnews,82,28,marukodo,2026-04-03 22:54:48
-47562762,Significant progress made on Xbox 360 recompilation,worldnews,145,30,tetrisgm,2026-04-03 22:54:49
-47618176,George Goble has died,worldnews,165,38,finaard,2026-04-03 22:54:50
-47624691,HarfBuzz Slug Support with WebGL,worldnews,19,3,mcraiha,2026-04-03 22:54:52
-47625952,Show HN I built a frontpage for personal blogs,entertainment,386,122,ramkarthikk,2026-04-03 22:56:04
-47562135,Show HN TurboQuant for vector search  24 bit compression,entertainment,18,2,justsomeguy1996,2026-04-03 22:56:09
+47629433,iNaturalist,technology,44,8,bookofjoe,2026-04-03 23:34:42
+47629505,Solana Drift Protocol drained of 285M via fake token and governance hijack,technology,14,0,anonhaven,2026-04-03 23:34:43
+47562325,Understanding young news audiences at a time of rapid change,technology,18,1,giuliomagnifico,2026-04-03 23:34:44
+47618223,We replaced RAG with a virtual filesystem for our AI documentation assistant,technology,19,9,denssumesh,2026-04-03 23:34:45
+47567222,Samsung Magician disk utility takes 18 steps and two reboots to uninstall,technology,250,132,chalmovsky,2026-04-03 23:35:46
+47626462,BigEndian Testing with QEMU,technology,62,42,jandeboevrie,2026-04-03 23:35:47
+47624731,April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini,technology,226,91,greenstevester,2026-04-03 23:35:48
+47629116,Go on Embedded Systems and WebAssembly,technology,15,0,uticus,2026-04-03 23:35:49
+47560967,A Recipe for Steganogravy,technology,94,21,tbrockman,2026-04-03 23:35:50
+47622616,The Technocracy Movement of the 1930s,technology,18,4,lazydogbrownfox,2026-04-03 23:35:52
+47624811,SSH certificates the better SSH experience,technology,132,55,jandeboevrie,2026-04-03 23:35:53
+47627527,Build your own Dialup ISP with a Raspberry Pi,technology,22,3,arjunbajaj,2026-04-03 23:35:54
+47624645,Show HN Apfel  The free AI already on your Mac,technology,544,122,franze,2026-04-03 23:35:55
+47561426,What Category Theory Teaches Us About DataFrames,technology,141,42,mchav,2026-04-03 23:35:55
+47561678,ESP32S31 DualCore RISCV SoC with WiFi 6 Bluetooth 54 and Advanced HMI,technology,158,86,topspin,2026-04-03 23:35:56
+47625639,TDF ejects its core developers,technology,119,78,janvdberg,2026-04-03 23:35:57
+47628608,If youre running OpenClaw you probably got hacked in the last week,technology,112,53,kykeonaut,2026-04-03 23:35:58
+47629013,Mercurial Dyson  a plan for the disassembly of planet Mercury,technology,22,10,indy,2026-04-03 23:35:59
+47627061,Solar and batteries can power the world,technology,206,300,edent,2026-04-03 23:36:00
+47624736,NHS staff refusing to use FDP over Palantir ethical concerns,technology,254,107,chrisjj,2026-04-03 23:36:01
+47579818,What we learned building 100 API integrations with OpenCode,technology,70,16,rguldener,2026-04-03 23:36:01
+47624804,Category Theory Illustrated  Types,technology,47,1,boris_m,2026-04-03 23:36:02
+47573728,Intel Assured Supply Chain Product Brief,technology,44,9,aw-engineer,2026-04-03 23:36:03
+47618189,Tailscales new macOS home,technology,531,280,tosh,2026-04-03 23:36:04
+47616361,Google releases Gemma 4 open models,technology,1684,446,jeffmcjunkin,2026-04-03 23:36:05
+47618084,Cursor 3,worldnews,516,376,adamfeldman,2026-04-03 23:36:31
+47609356,Artemis IIs toilet is a moon mission milestone,worldnews,313,149,1659447091,2026-04-03 23:36:33
+47616242,Decisions that eroded trust in Azure  by a former Azure Core engineer,worldnews,1099,522,axelriet,2026-04-03 23:36:37
+47598413,C89ccsh  standalone C89ELF64 compiler in pure portable shell,worldnews,181,58,gaigalas,2026-04-03 23:36:37
+47629272,Artemis II astronaut I have two Microsoft Outlooks and neither are working,worldnews,7,1,Bender,2026-04-03 23:37:40
+47629306,Pharmaceuticals face 100 tariffs in US  unless firms strike a deal,worldnews,20,12,geox,2026-04-03 23:37:41
+47561913,Vector Meson Dominance,worldnews,51,6,chmaynard,2026-04-03 23:37:42
+47593861,Maze Algorithms 1997,worldnews,83,31,marukodo,2026-04-03 23:37:43
+47562762,Significant progress made on Xbox 360 recompilation,worldnews,147,30,tetrisgm,2026-04-03 23:37:44
+47618176,George Goble has died,worldnews,165,38,finaard,2026-04-03 23:37:45
+47621825,I Built an SMS Gateway with a 20 Android Phone  Jonnonz,worldnews,73,30,jonno-nz,2026-04-03 23:37:47
+47625629,Squarified Treemap Algorithm,worldnews,10,2,downboots,2026-04-03 23:37:48
+47572288,JSON Canvas Spec 2024,worldnews,126,37,tobr,2026-04-03 23:37:49
+47624691,HarfBuzz Slug Support with WebGL,worldnews,20,4,mcraiha,2026-04-03 23:37:50
+47621448,A Few Good Magazines From the 70s and 80s,worldnews,66,28,OhMeadhbh,2026-04-03 23:37:52
+47615002,Qwen36Plus Towards real world agents,worldnews,569,197,pretext,2026-04-03 23:37:53
+47551847,The Joy of Numbered Streets,worldnews,59,36,dmit,2026-04-03 23:37:55
+47614100,Backrooms and the Rise of the Institutional Gothic,worldnews,210,102,anarbadalov,2026-04-03 23:37:56
+47603657,Artemis II Launch Day Updates,worldnews,1086,940,apitman,2026-04-03 23:37:57
+47624990,Adobe wrote to my hosts file Ive never had an app do this before,worldnews,70,17,speckx,2026-04-03 23:37:59
+47626258,The more evidence behind a therapy the less the public trusts it,worldnews,26,11,clumsysmurf,2026-04-03 23:38:00
+47628860,Meta Has a New Linux Optimization Avoid Throttling TCP Throughput Unnecessarily,worldnews,5,0,Bender,2026-04-03 23:38:00
+47624440,A CSS Engine in OCaml,worldnews,10,0,p4bl0,2026-04-03 23:38:01
+47611481,Bringing Clojure programming to Enterprise 2021,worldnews,196,112,smartmic,2026-04-03 23:38:02
+47582987,Gone Almost Phishin,worldnews,180,87,luu,2026-04-03 23:38:05
+47613981,LinkedIn is searching your browser extensions,sports,1839,740,digitalWestie,2026-04-03 23:39:11
+47540441,Reinventing the pull request,sports,106,83,bkolobara,2026-04-03 23:39:12
+47592614,Prefer do notation over Applicative operators when assembling records 2024,sports,52,12,wazHFsRy,2026-04-03 23:39:13
+47575557,Magic the Gathering Deck Shuffler,sports,63,15,mooreds,2026-04-03 23:39:14
+47609564,Steam on Linux Use Skyrocketed Above 5 in March,sports,756,357,hkmaxpro,2026-04-03 23:39:15
+47615449,Artemis II will use laser beams to livestream 4K moon footage at 260 Mbps,sports,360,149,speckx,2026-04-03 23:39:17
+47624270,Q148637 Windows 9598 Overwrites BootSector Field on Floppy Disks 2001,sports,6,2,TMWNN,2026-04-03 23:39:18
+47624558,Proton meet isnt what they told you it was,sports,157,145,bundie,2026-04-03 23:39:22
+47574851,Foxing aspires to be an eBPFpowered replication engine for Linux filesystems,sports,48,6,tanelpoder,2026-04-03 23:39:23
+47615434,Delve allegedly forked an opensource tool and sold it as its own,sports,294,149,nickvec,2026-04-03 23:39:24
+47574600,Queueing Requests Queues Your Capacity Problems Too,sports,32,19,mhawthorne,2026-04-03 23:39:25
+47621518,Tor Alva The Tallest 3DPrinted Building in the World,sports,44,12,sohkamyung,2026-04-03 23:39:26
+47618120,Hugos New CSS Powers,sports,50,11,speckx,2026-04-03 23:39:27
+47611721,IBM Announces Strategic Collaboration with Arm,sports,273,188,bonzini,2026-04-03 23:39:29
+47613078,Inside Nepals Fake Rescue Racket,sports,301,132,lode,2026-04-03 23:39:31
+47579942,Built a cheap DIY fan controller because my motherboard never had working PWM,sports,75,41,bobsterlobster,2026-04-03 23:39:33
+47609882,Subscription bombing and how to mitigate it,sports,293,179,homelessdino,2026-04-03 23:39:34
+47563486,Emacslibgterm Terminal emulator for Emacs using libghosttyvt,sports,89,30,signa11,2026-04-03 23:39:35
+47627595,Porting Gos strings package to C,sports,6,1,ingve,2026-04-03 23:39:37
+47625759,Names of Easter,sports,9,1,throw0101c,2026-04-03 23:39:38
+47620939,rpg A modern psqlcompatible Postgres terminal and TUI written in Rust,sports,18,2,tanelpoder,2026-04-03 23:39:40
+47582220,Axios compromised on NPM  Malicious versions drop remote access trojan,sports,1925,799,mtud,2026-04-03 23:39:41
+47602832,EmDash  A spiritual successor to WordPress that solves plugin security,sports,678,494,elithrar,2026-04-03 23:39:45
+47618581,Amazon is adding a fuel surcharge to fees it collects from thirdparty sellers,sports,165,98,lehi,2026-04-03 23:39:46
+47610777,Quad9 Enables DNS over HTTP3 and DNS over QUIC,sports,63,13,itchingsphynx,2026-04-03 23:39:49
+47624879,Switzerland hosts CERN of semiconductor research,science,30,6,teleforce,2026-04-03 23:41:06
+47616704,Modern SQLite Features You Didnt Know It Had,science,226,61,thunderbong,2026-04-03 23:41:34
+47618100,Yggdrasil Network,science,115,53,Velocifyer,2026-04-03 23:41:35
+47547938,Quadratic Micropass Type Inference,science,36,6,simvux,2026-04-03 23:41:36
+47575554,An Example of Statistical Investigation of the Text Eugene Onegin  Markov 1913 pdf,science,35,3,jxmorris12,2026-04-03 23:41:37
+47625723,What Hath Tim BernersLee Wrought,science,11,1,MindGods,2026-04-03 23:41:39
+47622670,EmDash Feedback,science,40,6,batuhanicoz,2026-04-03 23:41:40
+47604155,SpaceX files to go public,science,392,571,nutjob2,2026-04-03 23:41:41
+47627086,Chatbots are now prescribing psychiatric drugs,science,13,4,Brajeshwar,2026-04-03 23:41:42
+47578582,What Gdel Discovered 2020,science,95,32,qnleigh,2026-04-03 23:41:44
+47573450,Intuiting Pratt Parsing,science,161,48,signa11,2026-04-03 23:41:47
+47576106,Reverse Engineering Crazy Taxi Part 2,science,86,11,wgreenberg,2026-04-03 23:41:48
+47608495,Quantum computing bombshells that are not April Fools,science,262,104,Strilanc,2026-04-03 23:41:49
+47627056,Marc Andreessen is wrong about introspection,science,348,379,surprisetalk,2026-04-03 23:41:49
+47613447,CC leak skills are better than I thought,science,42,14,KaseKun,2026-04-03 23:41:53
+47561606,Working on Products People Hate,science,59,59,herbertl,2026-04-03 23:41:55
+47621048,Why Doesnt Anybody Realize Were Going Back to the Moon,science,78,144,paulpauper,2026-04-03 23:41:57
+47606840,DRAM pricing is killing the hobbyist SBC market,science,618,531,ingve,2026-04-03 23:41:59
+47619990,The machines are fine Im worried about us,science,13,3,hmpc,2026-04-03 23:42:00
+47611809,New laws to make it easier to cancel subscriptions and get refunds,science,155,66,chrisjj,2026-04-03 23:42:01
+47584386,Fast and Gorgeous Erosion Filter,science,235,24,runevision,2026-04-03 23:42:02
+47605494,Jaxs true calling RayMarching renderers on WebGL,science,88,14,BenoitP,2026-04-03 23:42:03
+47608058,A new C back end for ocamlc,science,234,20,glittershark,2026-04-03 23:42:04
+47558073,Ariane 6 users manual pdf,science,71,24,matthieu_bl,2026-04-03 23:42:06
+47626607,Democrats launch probe into Hegseths alleged effort to buy up defense stocks,science,13,0,mandeepj,2026-04-03 23:42:08
+47625952,Show HN I built a frontpage for personal blogs,entertainment,442,133,ramkarthikk,2026-04-03 23:42:12
+47562135,Show HN TurboQuant for vector search  24 bit compression,entertainment,36,2,justsomeguy1996,2026-04-03 23:42:17
+47621438,Show HN Made a little Artemis II tracker,entertainment,135,53,codingmoh,2026-04-03 23:43:02
+47625385,H264 Streaming Fees What Changed Whos Affected and What It Means,entertainment,67,38,phantomathkg,2026-04-03 23:43:18
+47560959,Show HN Home Maker Declare Your Dev Tools in a Makefile,entertainment,89,58,sthottingal,2026-04-03 23:43:18
+47615844,Show HN A P2P messenger with dual network modes Fast and Tor,entertainment,35,21,Realman78,2026-04-03 23:43:40
+47606560,Show HN Dull  Instagram Without Reels YouTube Without Shorts iOS,entertainment,145,113,kasparnoor,2026-04-03 23:43:43
+47612601,Sweden goes back to basics swapping screens for books in the classroom,entertainment,882,423,novaRom,2026-04-03 23:43:46
+47612321,Show HN I built a DNS resolver from scratch in Rust  no DNS libraries,entertainment,104,63,rdme,2026-04-03 23:43:57
+47612277,Almighty Lisp Lisp and Emacs Essentials Book,entertainment,66,4,nemoniac,2026-04-03 23:44:02
+47618247,Show HN SyNumpy  a Header only C17 library for working with NumPy Arrays,entertainment,19,3,symisc_devel,2026-04-03 23:44:04
+47626598,Show HN ctx  an Agentic Development Environment ADE,entertainment,37,51,luca-ctx,2026-04-03 23:45:17
+47557921,Show HN Git bayesect  Bayesian Git bisection for nondeterministic bugs,entertainment,334,44,hauntsaninja,2026-04-03 23:45:26
+47597935,CERN levels up with new superconducting karts,entertainment,394,85,fnands,2026-04-03 23:45:31
+47609090,The Weather Channel  RetroCast,entertainment,314,60,typeofhuman,2026-04-03 23:45:33
+47558101,Bring Back MiniDV with This Raspberry Pi FireWire Hat,entertainment,124,28,ingve,2026-04-03 23:45:34
+47573138,Set the Line Before Its Crossed,entertainment,79,48,surprisetalk,2026-04-03 23:45:36
+47605374,Scientists crack a 20year nuclear mystery behind the creation of gold,entertainment,84,39,prabal97,2026-04-03 23:45:37
+47550433,Teenage Engineerings PO32 acoustic modem and synth implementation,entertainment,148,35,ericlewis,2026-04-03 23:45:38
+47601859,Ask HN Who is hiring April 2026,entertainment,270,321,whoishiring,2026-04-03 23:45:39
+47539945,Consider the Greenland Shark 2020,entertainment,88,39,mooreds,2026-04-03 23:45:39
+47597119,Claude wrote a full FreeBSD remote kernel RCE with root shell,entertainment,267,102,ishqdehlvi,2026-04-03 23:45:40
+47601555,Apple removes iPhone vibe coding app from app store,entertainment,65,57,randycupertino,2026-04-03 23:45:41
+47582043,Artemis II is not safe to fly,entertainment,897,629,idlewords,2026-04-03 23:45:43
+47593556,A dot a day keeps the clutter away,entertainment,574,168,scottlawson,2026-04-03 23:45:44
